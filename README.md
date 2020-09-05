@@ -13,8 +13,8 @@ Expenditure-Monitor, a web app made with React, MongoDb, Express, Victory to mon
    - To install dependencies, run ```  npm install  ``` or ``` yarn ```
 4. Open [localhost:3000](http://localhost:3000/) in the browser
 
-![Expense Monitor](https://mernbook.s3.amazonaws.com/git+/expensetracker.png "MERN Expense Tracker")
+![Expense Monitor](https://mernbook.s3.amazonaws.com/git+/expensetracker.png "Expense Monitor")
 
-![Expense Monitor Graphs](https://mernbook.s3.amazonaws.com/git+/graphs.png "MERN Expense Tracker Graphs")
+![Expense Monitor Graphs](https://mernbook.s3.amazonaws.com/git+/graphs.png "Expense Monitor Graphs")
 
 ----
