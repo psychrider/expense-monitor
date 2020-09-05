@@ -1,5 +1,5 @@
 # Expense Monitor
-web app to help you manage your expenses : )
+Expenditure-Monitor, a web app made with React, MongoDb, Express, Victory to monitor and visualize data of your expenditure. In order to facilitate savings and reduce excess expenditure.
 
 #### Required to run the code
 1. Node (13.12.0)
